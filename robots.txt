@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mybettergoal.com/sitemap.xml
